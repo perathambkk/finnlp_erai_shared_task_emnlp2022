@@ -3,3 +3,5 @@ The Transformers for Text Classification Baseline (TTCB) System to a Shared Task
 Shared Task@EMNLP-2022 https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/erai-shared-task?authuser=0.
 
 The code costs within the OpenAI API free tier budget.
+
+For the unsupervised ranking task, we utilized many financial pretrained models and lexicons.
