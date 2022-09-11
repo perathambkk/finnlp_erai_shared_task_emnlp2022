@@ -1,0 +1,3 @@
+[submodule "probabilistic-lexicon-classification"]
+	path = probabilistic-lexicon-classification
+	url = https://github.com/perathambkk/probabilistic-lexicon-classification.git
