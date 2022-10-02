@@ -9,4 +9,4 @@ For a lecture in prompt-based learning, please see https://www.youtube.com/watch
 
 For an awesome list on prompts, please see https://github.com/thunlp/PromptPapers or other awesome repos around GitHub.
 
-For the unsupervised ranking task, we utilized many financial pretrained models and lexicons.
+For the unsupervised ranking task, we utilized many financial pretrained models and (Bayesian-fitted) lexicons.
