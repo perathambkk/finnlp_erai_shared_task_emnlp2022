@@ -8,4 +8,4 @@ For a lecture in prompt-based learning, please see https://www.youtube.com/watch
 
 For an awesome list on prompts, please see https://github.com/thunlp/PromptPapers or other awesome repos around GitHub.
 
-For the unsupervised ranking task, we utilized many financial pretrained models and (<a href="https://github.com/perathambkk/probabilistic-lexicon-classification/tree/4b4dc37ca16923bc57d7de9f81e19e9850f0d9d8">Bayesian-fitted🍴</a>) lexicons.
+For the unsupervised ranking task, we utilized many financial pretrained models and (<a href="https://github.com/perathambkk/probabilistic-lexicon-classification/tree/4b4dc37ca16923bc57d7de9f81e19e9850f0d9d8">Bayesian-fitted🍴</a>) lexicons. Then, we intuitively weighed them using the MaxEnt principle.
