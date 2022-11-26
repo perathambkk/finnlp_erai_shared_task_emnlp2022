@@ -11,3 +11,5 @@ For an awesome list on prompts, please see https://github.com/thunlp/PromptPaper
 For the unsupervised ranking task, we utilized many financial pretrained models and (<a href="https://github.com/perathambkk/probabilistic-lexicon-classification/tree/4b4dc37ca16923bc57d7de9f81e19e9850f0d9d8">Bayesian-fitted🍴</a>) lexicons. Then, we intuitively weighed them using the MaxEnt principle. 
 
 Presentations: https://docs.google.com/presentation/d/1-rutQf-bHpDtI_c6Y78_FFWPc53zscMis5b1y7-bzoE/edit?usp=sharing
+
+PS. Our base submission, when using the bayesian lexicon like the best submission, can score very similar (a little bit ~0.5% lower MPP) compared to the best submission. POS feature and tone features add only a little bit of performance.
