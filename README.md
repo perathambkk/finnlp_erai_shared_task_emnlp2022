@@ -12,4 +12,4 @@ For the unsupervised ranking task, we utilized many financial pretrained models 
 
 Presentations: https://docs.google.com/presentation/d/1-rutQf-bHpDtI_c6Y78_FFWPc53zscMis5b1y7-bzoE/edit?usp=sharing
 
-PS. Our base submission, when using just the bayesian lexicon like the best submission, can score very similar (a little bit ~0.5% lower MPP) compared to the best submission. POS feature and tone features add only a little bit of performance. (I haven't reproduced the numbers the be aligned with the official shared task results so this is probably still roughly speaking with some comparable evidences.)
+PS. Our base submission, when using just the bayesian lexicon from the best submission, can score very similar (a little bit ~0.5% lower MPP) compared to the best submission. POS feature and tone features add only a little bit of performance. (I haven't reproduced the numbers to be aligned with the official shared task results so this is probably still roughly speaking with some comparable evidences.)
