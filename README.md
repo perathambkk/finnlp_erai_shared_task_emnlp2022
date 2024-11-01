@@ -19,14 +19,14 @@ A link to the [paper](https://aclanthology.org/2022.finnlp-1.pdf#page=116) and i
 
 ### Cite this paper
 
-Wiriyathammabhum, P. (2022). PromptShots at the FinNLP-2022 ERAI Tasks: Pairwise Comparison and Unsupervised Ranking. FinNLP 2022, 104.
+Wiriyathammabhum, P. (2022, December). PromptShots at the FinNLP-2022 ERAI Task: Pairwise Comparison and Unsupervised Ranking. In Proceedings of the Fourth Workshop on Financial Technology and Natural Language Processing (FinNLP) (pp. 104-110).
 
 ```bixtex
-@article{wiriyathammabhum2022promptshots,
-  title={PromptShots at the FinNLP-2022 ERAI Tasks: Pairwise Comparison and Unsupervised Ranking},
+@inproceedings{wiriyathammabhum2022promptshots,
+  title={PromptShots at the FinNLP-2022 ERAI Task: Pairwise Comparison and Unsupervised Ranking},
   author={Wiriyathammabhum, Peratham},
-  journal={FinNLP 2022},
-  pages={104},
+  booktitle={Proceedings of the Fourth Workshop on Financial Technology and Natural Language Processing (FinNLP)},
+  pages={104--110},
   year={2022}
 }
 ```
