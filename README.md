@@ -14,6 +14,9 @@ Presentations: https://docs.google.com/presentation/d/1-rutQf-bHpDtI_c6Y78_FFWPc
 
 PS. Our base submission, when using just the bayesian lexicon from the best submission, can score very similar (a little bit ~0.5% lower MPP) compared to the best submission. POS feature and tone features add only a little bit of performance. (I haven't reproduced the numbers to be aligned with the official shared task results so this is probably still roughly speaking with some comparable evidences.)
 
+## Training and Testing
+See each jupyter notebook for each score creation (counting words) and [score_aggregator.ipynb](score_aggregator.ipynb), [score_aggregator_s1.ipynb](score_aggregator_s1.ipynb), [score_aggregator_s2.ipynb](score_aggregator_s2.ipynb). The data files are also provided as .neg, .pos, .bow, .key, and .json files as used in the jupyter notebooks. 
+
 ## Citation
 A link to the [paper](https://aclanthology.org/2022.finnlp-1.pdf#page=116) and its [ArXiv](https://arxiv.org/abs/2301.06606).
 
